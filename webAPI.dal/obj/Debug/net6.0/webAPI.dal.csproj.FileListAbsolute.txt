@@ -1,0 +1,12 @@
+D:\.net\myProject\webAPI.dal\bin\Debug\net6.0\webAPI.dal.deps.json
+D:\.net\myProject\webAPI.dal\bin\Debug\net6.0\webAPI.dal.dll
+D:\.net\myProject\webAPI.dal\bin\Debug\net6.0\webAPI.dal.pdb
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\webAPI.dal.csproj.AssemblyReference.cache
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\webAPI.dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\webAPI.dal.AssemblyInfoInputs.cache
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\webAPI.dal.AssemblyInfo.cs
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\webAPI.dal.csproj.CoreCompileInputs.cache
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\webAPI.dal.dll
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\refint\webAPI.dal.dll
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\webAPI.dal.pdb
+D:\.net\myProject\webAPI.dal\obj\Debug\net6.0\ref\webAPI.dal.dll
